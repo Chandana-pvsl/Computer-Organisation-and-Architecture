@@ -1,0 +1,71 @@
+
+NET "a[7]" IOSTANDARD = LVCMOS33;
+NET "a[6]" IOSTANDARD = LVCMOS33;
+NET "a[5]" IOSTANDARD = LVCMOS33;
+NET "a[4]" IOSTANDARD = LVCMOS33;
+NET "a[3]" IOSTANDARD = LVCMOS33;
+NET "a[2]" IOSTANDARD = LVCMOS33;
+NET "a[1]" IOSTANDARD = LVCMOS33;
+NET "a[0]" IOSTANDARD = LVCMOS33;
+
+NET "b[7]" IOSTANDARD = LVCMOS33;
+NET "b[6]" IOSTANDARD = LVCMOS33;
+NET "b[5]" IOSTANDARD = LVCMOS33;
+NET "b[4]" IOSTANDARD = LVCMOS33;
+NET "b[3]" IOSTANDARD = LVCMOS33;
+NET "b[2]" IOSTANDARD = LVCMOS33;
+NET "b[1]" IOSTANDARD = LVCMOS33;
+NET "b[0]" IOSTANDARD = LVCMOS33;
+
+NET "product[15]" IOSTANDARD = LVCMOS33;
+NET "product[14]" IOSTANDARD = LVCMOS33;
+NET "product[13]" IOSTANDARD = LVCMOS33;
+NET "product[12]" IOSTANDARD = LVCMOS33;
+NET "product[11]" IOSTANDARD = LVCMOS33;
+NET "product[10]" IOSTANDARD = LVCMOS33;
+NET "product[9]" IOSTANDARD = LVCMOS33;
+NET "product[8]" IOSTANDARD = LVCMOS33;
+NET "product[7]" IOSTANDARD = LVCMOS33;
+NET "product[6]" IOSTANDARD = LVCMOS33;
+NET "product[5]" IOSTANDARD = LVCMOS33;
+NET "product[4]" IOSTANDARD = LVCMOS33;
+NET "product[3]" IOSTANDARD = LVCMOS33;
+NET "product[2]" IOSTANDARD = LVCMOS33;
+NET "product[1]" IOSTANDARD = LVCMOS33;
+NET "product[0]" IOSTANDARD = LVCMOS33;
+
+# PlanAhead Generated phbsical constraints 
+
+NET "a[0]" LOC = J15;
+NET "a[1]" LOC = L16;
+NET "a[2]" LOC = M13;
+NET "a[3]" LOC = R15;
+NET "a[4]" LOC = R17;
+NET "a[5]" LOC = T18;
+NET "a[6]" LOC = U18;
+NET "a[7]" LOC = R13;
+NET "b[0]" LOC = T8;
+NET "b[1]" LOC = U8;
+NET "b[2]" LOC = R16;
+NET "b[3]" LOC = T13;
+NET "b[4]" LOC = H6;
+NET "b[5]" LOC = U12;
+NET "b[6]" LOC = U11;
+NET "b[7]" LOC = V10;
+NET "product[0]" LOC = H17;
+NET "product[1]" LOC = K15;
+NET "product[2]" LOC = J13;
+NET "product[3]" LOC = N14;
+NET "product[4]" LOC = R18;
+NET "product[5]" LOC = V17;
+NET "product[6]" LOC = U17;
+NET "product[7]" LOC = U16;
+NET "product[8]" LOC = V16;
+NET "product[9]" LOC = T15;
+NET "product[10]" LOC = U14;
+NET "product[11]" LOC = T16;
+NET "product[12]" LOC = V15;
+NET "product[13]" LOC = V14;
+NET "product[14]" LOC = V12;
+NET "product[15]" LOC = V11;
+
